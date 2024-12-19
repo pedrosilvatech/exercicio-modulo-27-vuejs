@@ -17,12 +17,7 @@
                 Página ficticia, apenas para fins de estudo em programação
             </p>
         </div>
-        <div>
-            <p>
-                &copy; Vamos Calcular um pouco? - Todos os direitos reservados - 2024.
-                Desenvolvido por André Soares
-            </p>
-        </div>
+
     </footer>
 </template>
 
